@@ -15,20 +15,20 @@
 
 ## 演習
 
-|   インデックス | 名前                                       | 難易度   | 練習                                                                                                                          |
-|----------------|--------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 🎯  Nmap スキャンと Telnet アクセス        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/nmap-nmap-scanning-and-telnet-access-596683'>チャレンジを開始</a>           |
-|              2 | 🎯  FTP 列挙と匿名アクセス                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-ftp-enumeration-and-anonymous-access-596695'>チャレンジを開始</a>     |
-|              3 | 🎯  SMB の列挙とゲストアクセス             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-smb-enumeration-and-guest-access-596724'>チャレンジを開始</a>         |
-|              4 | 🎯  Telnet ブルートフォースと弱い認証情報  | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-telnet-brute-force-and-weak-credentials-596726'>チャレンジを開始</a>  |
-|              5 | 🎯  Rsync 列挙と匿名同期                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-rsync-enumeration-and-anonymous-sync-596723'>チャレンジを開始</a>     |
-|              6 | 🎯  RDP 列挙と弱いパスワードによるアクセス | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-rdp-enumeration-and-weak-password-access-596722'>チャレンジを開始</a> |
-|              7 | 🎯  HTTP 列挙とディレクトリトラバーサル    | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-http-enumeration-and-directory-traversal-596721'>チャレンジを開始</a> |
-|              8 | 🎯  SSH 列挙と鍵ベース認証                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-ssh-enumeration-and-key-based-access-596725'>チャレンジを開始</a>     |
+|   インデックス | 名前                                       | 難易度   | 練習                                                                                                                                                                   |
+|----------------|--------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 🎯  Nmap スキャンと Telnet アクセス        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/nmap-nmap-scanning-and-telnet-access-596683?course=penetration-testing-for-beginners'>チャレンジを開始</a>           |
+|              2 | 🎯  FTP 列挙と匿名アクセス                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-ftp-enumeration-and-anonymous-access-596695?course=penetration-testing-for-beginners'>チャレンジを開始</a>     |
+|              3 | 🎯  SMB の列挙とゲストアクセス             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-smb-enumeration-and-guest-access-596724?course=penetration-testing-for-beginners'>チャレンジを開始</a>         |
+|              4 | 🎯  Telnet ブルートフォースと弱い認証情報  | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-telnet-brute-force-and-weak-credentials-596726?course=penetration-testing-for-beginners'>チャレンジを開始</a>  |
+|              5 | 🎯  Rsync 列挙と匿名同期                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-rsync-enumeration-and-anonymous-sync-596723?course=penetration-testing-for-beginners'>チャレンジを開始</a>     |
+|              6 | 🎯  RDP 列挙と弱いパスワードによるアクセス | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-rdp-enumeration-and-weak-password-access-596722?course=penetration-testing-for-beginners'>チャレンジを開始</a> |
+|              7 | 🎯  HTTP 列挙とディレクトリトラバーサル    | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-http-enumeration-and-directory-traversal-596721?course=penetration-testing-for-beginners'>チャレンジを開始</a> |
+|              8 | 🎯  SSH 列挙と鍵ベース認証                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-ssh-enumeration-and-key-based-access-596725?course=penetration-testing-for-beginners'>チャレンジを開始</a>     |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
