@@ -15,20 +15,20 @@ Teste suas habilidades neste curso baseado em desafios que abrange técnicas ess
 
 ## Exercícios
 
-|   Índice | Nome                                            | Dificuldade   | Prática                                                                                                                      |
-|----------|-------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯  Nmap Scanning e Acesso Telnet               | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/nmap-nmap-scanning-and-telnet-access-596683'>Iniciar Desafio</a>           |
-|        2 | 🎯  Enumeração FTP e Acesso Anônimo             | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-ftp-enumeration-and-anonymous-access-596695'>Iniciar Desafio</a>     |
-|        3 | 🎯  Enumeração SMB e Acesso de Convidado        | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-smb-enumeration-and-guest-access-596724'>Iniciar Desafio</a>         |
-|        4 | 🎯  Força Bruta em Telnet e Credenciais Fracas  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-telnet-brute-force-and-weak-credentials-596726'>Iniciar Desafio</a>  |
-|        5 | 🎯  Enumeração e Sincronização Anônima de Rsync | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-rsync-enumeration-and-anonymous-sync-596723'>Iniciar Desafio</a>     |
-|        6 | 🎯  Enumeração de RDP e Acesso por Senha Fraca  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-rdp-enumeration-and-weak-password-access-596722'>Iniciar Desafio</a> |
-|        7 | 🎯  Enumeração HTTP e Travessia de Diretórios   | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-http-enumeration-and-directory-traversal-596721'>Iniciar Desafio</a> |
-|        8 | 🎯  Enumeração de SSH e Acesso Baseado em Chave | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-ssh-enumeration-and-key-based-access-596725'>Iniciar Desafio</a>     |
+|   Índice | Nome                                            | Dificuldade   | Prática                                                                                                                                                               |
+|----------|-------------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🎯  Nmap Scanning e Acesso Telnet               | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/nmap-nmap-scanning-and-telnet-access-596683?course=penetration-testing-for-beginners'>Iniciar Desafio</a>           |
+|        2 | 🎯  Enumeração FTP e Acesso Anônimo             | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-ftp-enumeration-and-anonymous-access-596695?course=penetration-testing-for-beginners'>Iniciar Desafio</a>     |
+|        3 | 🎯  Enumeração SMB e Acesso de Convidado        | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-smb-enumeration-and-guest-access-596724?course=penetration-testing-for-beginners'>Iniciar Desafio</a>         |
+|        4 | 🎯  Força Bruta em Telnet e Credenciais Fracas  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-telnet-brute-force-and-weak-credentials-596726?course=penetration-testing-for-beginners'>Iniciar Desafio</a>  |
+|        5 | 🎯  Enumeração e Sincronização Anônima de Rsync | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-rsync-enumeration-and-anonymous-sync-596723?course=penetration-testing-for-beginners'>Iniciar Desafio</a>     |
+|        6 | 🎯  Enumeração de RDP e Acesso por Senha Fraca  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-rdp-enumeration-and-weak-password-access-596722?course=penetration-testing-for-beginners'>Iniciar Desafio</a> |
+|        7 | 🎯  Enumeração HTTP e Travessia de Diretórios   | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-http-enumeration-and-directory-traversal-596721?course=penetration-testing-for-beginners'>Iniciar Desafio</a> |
+|        8 | 🎯  Enumeração de SSH e Acesso Baseado em Chave | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-ssh-enumeration-and-key-based-access-596725?course=penetration-testing-for-beginners'>Iniciar Desafio</a>     |
 
 ## Sobre LabEx
 
-LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, LabEx oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
+[LabEx](https://labex.io) é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, [LabEx](https://labex.io) oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 ## Mais
 
