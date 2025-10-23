@@ -15,20 +15,20 @@ Nmap, FTP, SMB, Telnet, Rsync, RDP, HTTP, SSH 와 같은 업계 표준 도구를
 
 ## 연습
 
-|   인덱스 | 이름                                            | 난이도   | 연습                                                                                                                   |
-|----------|-------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯  Nmap 스캔 및 Telnet 액세스                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/nmap-nmap-scanning-and-telnet-access-596683'>도전 시작</a>           |
-|        2 | 🎯  FTP 열거 및 익명 액세스                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-ftp-enumeration-and-anonymous-access-596695'>도전 시작</a>     |
-|        3 | 🎯  SMB 열거 및 게스트 액세스                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-smb-enumeration-and-guest-access-596724'>도전 시작</a>         |
-|        4 | 🎯  Telnet 무차별 대입 공격 및 취약한 자격 증명 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-telnet-brute-force-and-weak-credentials-596726'>도전 시작</a>  |
-|        5 | 🎯  Rsync 열거 및 익명 동기화                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-rsync-enumeration-and-anonymous-sync-596723'>도전 시작</a>     |
-|        6 | 🎯  RDP 열거 및 약한 비밀번호 액세스            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-rdp-enumeration-and-weak-password-access-596722'>도전 시작</a> |
-|        7 | 🎯  HTTP 열거 및 디렉토리 탐색                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-http-enumeration-and-directory-traversal-596721'>도전 시작</a> |
-|        8 | 🎯  SSH 열거 및 키 기반 액세스                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-ssh-enumeration-and-key-based-access-596725'>도전 시작</a>     |
+|   인덱스 | 이름                                            | 난이도   | 연습                                                                                                                                                            |
+|----------|-------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🎯  Nmap 스캔 및 Telnet 액세스                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/nmap-nmap-scanning-and-telnet-access-596683?course=penetration-testing-for-beginners'>도전 시작</a>           |
+|        2 | 🎯  FTP 열거 및 익명 액세스                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-ftp-enumeration-and-anonymous-access-596695?course=penetration-testing-for-beginners'>도전 시작</a>     |
+|        3 | 🎯  SMB 열거 및 게스트 액세스                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-smb-enumeration-and-guest-access-596724?course=penetration-testing-for-beginners'>도전 시작</a>         |
+|        4 | 🎯  Telnet 무차별 대입 공격 및 취약한 자격 증명 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-telnet-brute-force-and-weak-credentials-596726?course=penetration-testing-for-beginners'>도전 시작</a>  |
+|        5 | 🎯  Rsync 열거 및 익명 동기화                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-rsync-enumeration-and-anonymous-sync-596723?course=penetration-testing-for-beginners'>도전 시작</a>     |
+|        6 | 🎯  RDP 열거 및 약한 비밀번호 액세스            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-rdp-enumeration-and-weak-password-access-596722?course=penetration-testing-for-beginners'>도전 시작</a> |
+|        7 | 🎯  HTTP 열거 및 디렉토리 탐색                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-http-enumeration-and-directory-traversal-596721?course=penetration-testing-for-beginners'>도전 시작</a> |
+|        8 | 🎯  SSH 열거 및 키 기반 액세스                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-ssh-enumeration-and-key-based-access-596725?course=penetration-testing-for-beginners'>도전 시작</a>     |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
